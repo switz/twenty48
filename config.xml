@@ -10,8 +10,6 @@
     <content src="index.html" />
     <access origin="*" />
     <preference name="DisallowOverscroll" value="true" />
-    <icon src="57.png" width="57" height="57" gap:platform="ios" />
-    <icon src="72.png" width="72" height="72" gap:platform="ios" />
-    <icon src="114.png" width="114" height="114" gap:platform="ios" />
-    <icon src="144.png" width="144" height="144" gap:platform="ios" />
+    <icon gap:platform="ios" height="57" src="icon.png" width="57" />
+    <icon gap:platform="ios" height="72" src="icon-72.png" width="72" />
 </widget>
