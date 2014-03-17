@@ -19,7 +19,7 @@
     <feature name="LocalStorage">
         <param name="ios-package" value="CDVLocalStorage" />
     </feature>
-    <name>2048</name>
+    <name>twenty48</name>
     <description>
         A game.
     </description>

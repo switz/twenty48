@@ -4,7 +4,7 @@
     <feature name="App">
         <param name="android-package" value="org.apache.cordova.App" />
     </feature>
-    <name>2048</name>
+    <name>twenty48</name>
     <description>
         A game.
     </description>
