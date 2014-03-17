@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:6
+-keep class com.tweezer.twenty48.twenty48 { <init>(...); }
+
